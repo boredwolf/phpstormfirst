@@ -1,0 +1,15 @@
+{
+    "name": "felix/my-first-php-project",
+    "autoload": {
+        "psr-4": {
+            "Felix\\MyFirstPhpProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Félix Jouvhomme",
+            "email": "felix.jouvhomme@gmail.com"
+        }
+    ],
+    "require": {}
+}
